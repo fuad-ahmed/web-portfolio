@@ -55,12 +55,12 @@ section{
     height: 80%;
     background-color: white;
 }
-.full-stack{
+#full-stack{
     border-left:7px solid;
     border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
 }
-.baby-deb{
+#baby-deb{
     border-left:7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
